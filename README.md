@@ -7,6 +7,10 @@ http://stackoverflow.com/questions/31041366/how-to-install-ionic-framework-on-ub
 
 http://www.lauradhamilton.com/how-to-get-the-ionic-framework-running-on-ubuntu
 
+https://www.sitepoint.com/5-ionic-app-development-tips-tricks/
+
+http://fabiorogeriosj.com.br/desenvolvendo-aplicativos-mobile-ionic-post-1.html
+
 https://www.airpair.com/ionic/a-year-using-ionic-for-hybrid-ios-android-apps
 
 http://ionicframework.com/docs/ionic-cli-faq/
